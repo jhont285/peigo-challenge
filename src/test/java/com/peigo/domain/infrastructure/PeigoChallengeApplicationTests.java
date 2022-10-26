@@ -1,4 +1,4 @@
-package com.example.peigochallenge;
+package com.peigo.domain.infrastructure;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
